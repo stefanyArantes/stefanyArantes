@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Stefany Arantes 👋
 
-- 🔭 Sou formada em pedagogica e dou aula de inglês.
+- 🔭 Sou formada em pedagogia e dou aula de inglês.
 - 🌱 Estou estudando para me tornar Dev front-end
 - 🐱‍ Atualmente estudando JS
 <div align="center">
